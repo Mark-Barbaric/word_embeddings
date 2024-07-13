@@ -1,0 +1,5 @@
+.venv/
+
+# Glove
+*.zip
+glove.*
